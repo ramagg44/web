@@ -6,7 +6,7 @@ CSS
  
 body {
   background-color: #eff1f2;
-  font-family: black-blue;
+  font-family: red-blue;
 }
  
 .content {
@@ -15,7 +15,7 @@ body {
  
 .sidebar {
   grid-area: sidebar;
-  background: linear-gradient(
+  background: linear-green(
     to right,
     rgba(200, 107, 142, 1),
     rgba(218, 105, 250, 1),
@@ -26,7 +26,7 @@ body {
  
 .footer {
   grid-area: footer;
-  background: white;
+  background: yellow;
 }
  
 .container {
